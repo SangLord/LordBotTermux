@@ -29,17 +29,17 @@
 ## SOSMED
 
 <p align="center">
- <a href="https://instagram.com/ahmd.fdhl_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-AB34B6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- <a href="https://youtube.com/c/FadhilGraphy"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
- <a href="https://wa.me/6288221608614"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+ <a href="https://instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-AB34B6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="https://youtube.com/c/MikazuMZ"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+ <a href="https://wa.me/6283144780782"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 
 ## GROUP
 
-* <a href="https://chat.whatsapp.com/JANODO6ODi65fFQ22V4ac8"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group%201-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-* <a href="https://chat.whatsapp.com/I4AqcaILXHj3jrJ3MVURkc"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group%202-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-* <a href="https://t.me/joinchat/FT_-G7e136-CWXTM"><img alt="Telegram" src="https://img.shields.io/badge/Telegram%20Group-30ACE0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group%201-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group%202-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://t.me/joinchat/"><img alt="Telegram" src="https://img.shields.io/badge/Telegram%20Group-30ACE0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ---
 
@@ -60,8 +60,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/FdhlGraphy/botwa-termux
-> cd botwa-termux
+> git clone https://github.com/SangLord/LordBotTermux
+> cd LordBotTermux
 > bash install.sh
 ```
 
@@ -88,11 +88,11 @@ Open In Setting.json!
 ```bash
 {
     "prefix": "#",
-    "instagram": "https://www.instagram.com/ahmd.fdhl_",
-    "yt": "https://youtubemcom/FadhilGraphy",
-    "name": "FADHIL BOT",
-    "replySet": "SUBSCRIBE FADHIL GRAPHY",
-    "rdaftar": "TERIMAKASIH TELAH DAFTAR SEBAGAI TEMAN FADHILðŸ¤—",
+    "instagram": "https://www.instagram.com",
+    "yt": "https://youtubemcom/MikazuMZ",
+    "name": "SANGLORD BOT",
+    "replySet": "SUBSCRIBE MikazuMZ",
+    "rdaftar": "TERIMAKASIH TELAH DAFTAR SEBAGAI TEMAN SANGLORDðŸ¤—",
     "limitt": "UNLIMITED",
     "memberLimit": 7,
     "groupLimit": 7
@@ -114,8 +114,8 @@ Open In Setting.json!
 ### Install
 
 ```bash
-> git clone https://github.com/FdhlGraphy/botwa-termux
-> cd botwa-termux
+> git clone https://github.com/SangLord/LordBotTermux
+> cd LordBotTermux
 > npm install
 > npm i imgbb-uploader
 > npm i got
@@ -293,7 +293,7 @@ Open In Setting.json!
 * <a href="https://github.com/NazwaS"><img alt="GitHub" src="https://img.shields.io/badge/NazwaS%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 * <a href="https://github.com/FdhlGraphy"><img alt="GitHub" src="https://img.shields.io/badge/Fadhil%20Graphy%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 * <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/Mahankbarbar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-* <a href="https://github.com/affisjunianto"><img alt="GitHub" src="https://img.shields.io/badge/affisjunianto%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/SangLord"><img alt="GitHub" src="https://img.shields.io/badge/SangLord%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
 
 
