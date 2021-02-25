@@ -12,9 +12,9 @@
 <a href="https://github.com/SangLord"><img title="Author" src="https://img.shields.io/badge/AUTHOR-LORD-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/SangLord/LordBotTermux/followers"><img title="Followers" src="https://img.shields.io/github/followers/FdhlGraphy?style=flat-square"></a>
-<a href="https://github.com/SangLord/LordBotTermux/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FdhlGraphy/botwa-termux?style=flat-square"></a>
-<a href="https://github.com/SangLord/LordBotTermux/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FdhlGraphy/botwa-termux?style=flat-square"></a>
+<a href="https://github.com/SangLord/LordBotTermux/followers"><img title="Followers" src="https://img.shields.io/github/followers/SangLord?style=flat-square"></a>
+<a href="https://github.com/SangLord/LordBotTermux/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SangLord/LordBotTermux?style=flat-square"></a>
+<a href="https://github.com/SangLord/LordBotTermux/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/SangLord/LordBotTermux?style=flat-square"></a>
 
 </p>
 
