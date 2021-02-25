@@ -1,20 +1,20 @@
-### I'm FADHIL GRAPHY Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### I'm LORD Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
-<a href="https://github.com/FdhlGraphy"><img src="https://raw.githubusercontent.com/FdhlGraphy/FdhlGraphy/main/banner.jpg"></a>
+<a href="https://github.com/FdhlGraphy"><img src="https://raw.githubusercontent.com/SangLord/SangLord/main/banner.jpg"></a>
 </p>
 <br>
 
 
 <p align="center">
-<a href="#"><img title="botwa-termux" src="https://img.shields.io/badge/-BOTWA--TERMUX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="botwa-termux" src="https://img.shields.io/badge/-LordBotTermux-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FdhlGraphy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FADHIL-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/SangLord"><img title="Author" src="https://img.shields.io/badge/AUTHOR-LORD-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FdhlGraphy/botwa-termux/followers"><img title="Followers" src="https://img.shields.io/github/followers/FdhlGraphy?style=flat-square"></a>
-<a href="https://github.com/FdhlGraphy/botwa-termux/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FdhlGraphy/botwa-termux?style=flat-square"></a>
-<a href="https://github.com/FdhlGraphy/botwa-termux/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FdhlGraphy/botwa-termux?style=flat-square"></a>
+<a href="https://github.com/SangLord/LordBotTermux/followers"><img title="Followers" src="https://img.shields.io/github/followers/FdhlGraphy?style=flat-square"></a>
+<a href="https://github.com/SangLord/LordBotTermux/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FdhlGraphy/botwa-termux?style=flat-square"></a>
+<a href="https://github.com/SangLord/LordBotTermux/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FdhlGraphy/botwa-termux?style=flat-square"></a>
 
 </p>
 
